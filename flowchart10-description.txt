@@ -1,0 +1,6 @@
+Check the weather forecast before leaving home.
+
+Input whether rain is expected.
+
+If rain is expected, wear a raincoat and output "Wear raincoat".
+Otherwise, do not wear a raincoat and output "No raincoat needed".
